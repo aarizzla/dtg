@@ -134,4 +134,6 @@ if __name__ == "__main__":
     elif difficulty == "hard":
         run_quiz(hard_questions)
     else:
+
         print("Invalid difficulty. Please restart and choose easy, medium, or hard.")
+        #hi
